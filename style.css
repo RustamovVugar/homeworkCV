@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heading ul li{
+    display:inline-block;
+    
+}
+  .heading .title1{
+    margin-right: 140px;
+  }   
+.heading .title2{
+    margin-left: 300px;
+}
+
+.components ul li{
+    list-style: none;
+    display: inline-block;
+   
+}
+.components2{
+    display: inline-block;
+    margin-left: 300px;
+    padding-top: 50px;
+}
+.components ul h4{
+    color: blue;
+}
+/* .components1{
+    margin-left: 50px;
+    padding-top: 50px;
+} */
